@@ -271,6 +271,9 @@ footer p:hover {
   h1.title {
     font-size: 2rem;
   }
+  aside p {
+    font-size: 10px;
+  }
   article p {
     font-size: 13px;
   }
